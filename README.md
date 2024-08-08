@@ -3,7 +3,7 @@
 ## Description
 190,426 Images of Robot Cleaner Perspective Collection Data. The collection environment is indoor scenes. Data diversity includes multiple scenes, different time periods, different photographic angles and different categories of items. This set of data can be used for household items identification and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1174?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1174?source=Github
 
 
 ## Data size
